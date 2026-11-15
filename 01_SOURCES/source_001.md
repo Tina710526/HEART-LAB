@@ -1,6 +1,6 @@
 ---
 source_id: S001
-status: 已核對基本書目與全文內容
+status: 全文已核對（方法、結果、討論與限制）
 source_type: 描述性文獻回顧
 year: 2024
 authors: Schramm, Holger; Liebers, Nicole; Biniak, Laurenz; Dettmar, Franca
@@ -61,7 +61,7 @@ Schramm, H., Liebers, N., Biniak, L., & Dettmar, F. (2024). Research trends on p
 
 ## 查核紀錄
 - [x] 作者、年份、標題、期刊、卷期與 DOI 已由 PubMed 與期刊頁面交叉確認。
-- [x] 已取得並閱讀期刊公開全文頁面的摘要、研究背景、方法、結果與討論內容。
+- [x] 已取得並核對期刊公開全文的摘要、研究背景、方法、結果、討論與限制。
 - [x] 已確認研究為 281 篇英文與德文研究的描述性回顧。
 - [x] 已記錄 PSI／PSR 區分及主要研究缺口。
 - [x] 已標示非 K-pop 專門研究，避免過度延伸。
