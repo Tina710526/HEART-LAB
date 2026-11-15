@@ -43,6 +43,7 @@
 - [最後一輪教學內容查核](05_QUALITY_CONTROL/TEACHING_CONTENT_CHECK.md)
 - [學習目標](06_TEACHING_OUTLINE/LEARNING_OBJECTIVES.md)
 - [教學簡報結構](06_TEACHING_OUTLINE/PRESENTATION_STRUCTURE.md)
+- [HTML 互動式教學簡報規格書](06_TEACHING_OUTLINE/HTML_PRESENTATION_SPEC.md)
 
 ## 資料狀態標記
 - **全文已核對**：取得可確認的全文，並核對研究方法、樣本、主要結果與限制。
