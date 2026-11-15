@@ -98,7 +98,7 @@
 
 ## 四、跨文件一致性與已知問題
 
-1. 原 README 已列 11 筆來源，但舊版 INGEST_REPORT 與 LITERATURE_RECHECK 仍停在 8 筆；必須同步。
+1. 原 README、INGEST_REPORT 與 LITERATURE_RECHECK 的來源統計曾不一致；本輪已統一為 13 筆來源、12 筆全文已核對及 1 筆核心章節已核對。
 2. 原 GLOSSARY 將 PSI、PSR 等已整理概念標示為待核對；已更新為附來源的狀態。
 3. S003 曾將 S002 描述為僅核對摘要；已更正為出版社正式全文已核對。
 4. S005 曾將 S006 標示為待查；已更正為官方全文已核對。
