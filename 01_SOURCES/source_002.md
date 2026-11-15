@@ -1,54 +1,57 @@
 ---
 source_id: S002
-status: 摘要已核對；正式全文受限，第三方作者稿副本待版本確認
+status: 全文已核對
 source_type: 實證研究
-year: 2021
-authors: Laffan, D. A.
-doi: 10.1177/0033294120961524
+year: 2025
+authors: Arizabal, J. J. R.; Yabut, H. J.
+doi: 10.1177/21582440251369989
+access: 開放取用（CC BY 4.0）
 ---
 
-# S002｜K-pop 粉絲認同與正向心理社會結果
+# S002｜K-pop 粉絲認同、社會連結與心理健康
 
 ## 書目資料
-Laffan, D. A. (2021). Positive psychosocial outcomes and fanship in K-pop fans: A social identity theory perspective. *Psychological Reports, 124*(5), 2272–2285.
+Arizabal, J. J. R., & Yabut, H. J. (2025). The mediating effect of social connectedness in the relationship between K-pop fandom identity and mental health. *SAGE Open, 15*(3), 1–15.
 
-- DOI：https://doi.org/10.1177/0033294120961524
-- 出版社頁面：https://journals.sagepub.com/doi/10.1177/0033294120961524
-- PubMed：https://pubmed.ncbi.nlm.nih.gov/32985364/
-- 文章類型：實證研究；線上問卷與迴歸分析。
+- DOI：https://doi.org/10.1177/21582440251369989
+- 出版社全文：https://journals.sagepub.com/doi/full/10.1177/21582440251369989
+- 出版社 PDF：https://journals.sagepub.com/doi/pdf/10.1177/21582440251369989
+- 文章類型：描述性相關研究；線上問卷、迴歸與中介分析。
+- 開放授權：Creative Commons Attribution 4.0（CC BY 4.0）。
 
-## 已確認資訊（摘要與正式書目）
-- 研究以社會認同理論（Social Identity Theory）為架構。
-- 1,477 位 K-pop 粉絲完成線上問卷，來自 92 個以西方國家為主的地區。
-- 問卷測量 fanship、fandom 與心理社會結果，包括幸福感、自尊及社會連結。
-- 摘要指出，K-pop fanship 可顯著預測較高的幸福感、自尊與社會連結。
-- 正式出版資訊：*Psychological Reports*, 124(5), 2272–2285；2021 年 10 月刊期，2020 年 9 月 26 日先行線上發表。
+## 研究目的
+研究探討 K-pop 粉絲認同與心理健康指標之間的關係，並檢驗社會連結是否在粉絲認同與主觀幸福感、憂鬱之間具有中介作用。
 
-## 全文取得狀態與作者稿線索（2026-11-15 更新）
-- SAGE 出版社 PDF 頁面顯示 Restricted access；PubMed 僅提供摘要與書目。
-- ResearchGate 作者頁面提供「Request full-text」功能，並明確表示可向作者請求全文：https://www.researchgate.net/publication/344409446_Positive_Psychosocial_Outcomes_and_Fanship_in_K-Pop_Fans_A_Social_Identity_Theory_Perspective
-- 搜尋另發現 Scribd 上一份 21 頁文件，標題為「K-Pop Manuscript File Revised v2」。文件首頁列出 Derek A. Laffan、原研究機構，並引用該研究 DOI；首頁亦留下 SAGE eprint 分享網址線索：https://journals.sagepub.com/eprint/7RFN3NQNZRFDYWR4C76V/full
-- 該文件看起來可能是投稿／修訂稿的轉載，但上傳者不是作者，Scribd 頁面未提供作者授權或版本來源證明；因此只能當作尋找作者稿的線索，不可直接視為已確認的作者稿或正式出版版本。
-- 文件文字可初步辨識研究方法與數據：線上問卷 N=1,477；樣本年齡 18–55 歲；女性 70.2%；fanship 使用 11 題量表；幸福感、自尊、社會連結分別使用 OHQ、Rosenberg Self-Esteem Scale、SCS-R。這些細節目前只作為「待作者／正式版本確認的線索」，不納入 Wiki 已核實主張。
-- OSF PsyArXiv DOI 線索：https://doi.org/10.31234/osf.io/72w58；目前無法確認是否仍可公開取得全文或是否與期刊版本一致。
-- 優先行動：以作者公開信箱 derekajlaffan@gmail.com 聯繫，或透過 ResearchGate 的 Request full-text 功能請求可引用的作者接受稿／投稿後版本。
+## 研究方法與樣本
+- 最終納入分析的樣本為 425 位成年 K-pop 粉絲。
+- 參與者皆為菲律賓公民，年齡介於 18 至 60 歲，平均年齡約 24.69 歲。
+- 研究使用線上問卷蒐集資料；初始回覆 477 份，經資格與資料篩選後，留下 425 份有效樣本。
+- 研究測量 K-pop 粉絲認同、社會連結、主觀幸福感與憂鬱。
+- 分析方式包含描述統計、相關分析、線性迴歸、結構方程模型與中介分析。
 
-## 目前可支持的 Wiki 主張
-- 在該研究的跨國 K-pop 粉絲樣本中，fanship 與幸福感、自尊及社會連結呈現正向預測關係。
-- 此研究直接以 K-pop 粉絲為對象，補充一般媒體人物研究的不足。
+## 主要研究結果
+1. K-pop 粉絲認同與主觀幸福感呈顯著正相關，並能顯著預測較高的主觀幸福感。
+2. K-pop 粉絲認同與憂鬱程度呈負相關；在研究模型中，粉絲認同可預測較低的憂鬱程度。
+3. 粉絲認同與社會連結呈正相關。
+4. 社會連結在粉絲認同與主觀幸福感之間具有顯著中介效果。研究結果指出，粉絲認同可能透過與其他粉絲建立連結，間接關聯到較高的主觀幸福感。
+5. 社會連結與憂鬱之間未呈現顯著相關，因此研究者未保留「社會連結中介粉絲認同與憂鬱」的路徑。
+
+## 白話理解
+成為某個 K-pop 粉絲群體的一員，可能不只是多了一個喜歡的團體，也可能讓人找到能一起聊天、分享消息、參與活動的同好。這些互動帶來的歸屬感與社會連結，可能是粉絲認同與幸福感之間的重要橋樑。
 
 ## 解讀限制
-- 摘要使用「predictor」描述統計模型中的預測關係，不等於證明粉絲身分造成幸福感、自尊或社會連結提升。
-- 樣本來自 92 個以西方國家為主的地區，不能直接代表所有國家、文化與粉絲。
-- 在正式全文、量表、統計模型及限制段落完成核對前，不應自行補上迴歸係數、效果量或更細緻的因果解釋。
+- 研究採線上問卷與相關性設計，不能單憑統計模型證明粉絲認同或社會連結「造成」心理健康改變。
+- 研究樣本皆為菲律賓成年粉絲，不能直接代表未成年人、其他國家或所有粉絲文化。
+- 研究涵蓋多個 K-pop 粉絲群體，不同 fandom 的經驗可能有所差異。
+- 社會連結量表在本研究中使用的題項數有限，作者指出測量可能不足。
+- 社會連結並未中介粉絲認同與憂鬱的關係；不可把研究簡化成「追星能改善所有心理健康問題」。
+- 研究結果反映特定樣本與測量工具下的統計關係，不是臨床診斷或治療證據。
 
-## 待完成事項
-- [ ] 寄信至 derekajlaffan@gmail.com，請求可引用的作者接受稿（accepted manuscript）或投稿後版本，並詢問版本日期及是否與正式出版版有差異。
-- [ ] 透過 ResearchGate 的 Request full-text 功能提出全文請求。
-- [ ] 取得作者本人提供的正式作者稿，或可確認版本的機構典藏稿。
-- [ ] 核對粉絲身分特徵、量表與各項迴歸模型。
-- [ ] 核對幸福感、自尊、社會連結的統計結果及研究限制。
-- [ ] 比對作者稿與正式出版版本是否有內容差異。
+## 全文查核範圍
+已由出版社正式開放全文核對研究目的、研究設計、參與者、測量工具、分析方式、主要結果、討論與研究限制。本文為開放取用期刊論文，並非第三方轉載稿。
+
+## 原 S002 文獻處理紀錄
+原先編為 S002 的 Laffan（2021），*Positive Psychosocial Outcomes and Fanship in K-Pop Fans: A Social Identity Theory Perspective*，因出版社全文受限且未取得可確認的公開全文版本，決定不再列入目前正式來源序列。其正式摘要與書目資訊可供未來備查，但不納入本專案目前的來源數與全文核對統計。原先對第三方副本、作者聯繫及版本追查的紀錄不作為本篇研究證據。
 
 ## 查核狀態
-**摘要與正式書目已核對；發現疑似作者修訂稿的第三方轉載與 SAGE eprint 線索，但尚未獲作者或正式典藏確認。暫不計入全文已核對來源數。**
+**全文已核對**：已取得出版社正式開放全文，並核對研究方法、樣本、主要結果、討論與限制。
