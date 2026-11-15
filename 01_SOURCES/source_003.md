@@ -61,4 +61,4 @@ Hedberg, N. R. (2024). *K-pop Girlies: An Investigation into Photocard Collectin
 - [x] 已避免將質性研究結果推廣為所有粉絲的普遍結論。
 
 ## 延伸閱讀
-- [K-pop 粉絲認同與正向心理社會結果：S002](source_002.md)（目前僅核對摘要）
+- [K-pop 粉絲認同與正向心理社會結果：S002](source_002.md)（出版社正式開放全文已核對）
