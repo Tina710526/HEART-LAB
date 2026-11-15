@@ -13,7 +13,7 @@
 - Wiki 知識頁：**10 頁**
 - 已建立：概念關係圖、知識地圖、學習目標與教學簡報結構。
 - 已補強：心動的開始、健康追星與粉絲消費心理等主題。
-- 整體知識庫查核：**第一輪完成**；已更新事實查核、來源統計、名詞表與簡報證據界線。
+- 整體知識庫查核：**第一輪完成**；最後一輪七章教學內容查核：**通過**。
 - 已補強：新增 S012、S013，完成粉絲消費心理知識頁，涵蓋收藏動機、稀缺感、FoMO 與衝動購買。
 - HTML 教學簡報：**尚未製作**，待知識庫與內容查核完成後再開始。
 
@@ -39,7 +39,7 @@
 - [品質檢查總表](05_QUALITY_CONTROL/FACT_CHECK.md)
 - [來源品質檢查表](05_QUALITY_CONTROL/SOURCE_CHECKLIST.md)
 - [文獻匯入紀錄](05_QUALITY_CONTROL/INGEST_REPORT.md)
-- [文獻查核總表](05_QUALITY_CONTROL/LITERATURE_RECHECK.md)
+- [文獻查核總表](05_QUALITY_CONTROL/LITERATURE_RECHECK.md)\n- [最後一輪教學內容查核](05_QUALITY_CONTROL/TEACHING_CONTENT_CHECK.md)
 - [學習目標](06_TEACHING_OUTLINE/LEARNING_OBJECTIVES.md)
 - [教學簡報結構](06_TEACHING_OUTLINE/PRESENTATION_STRUCTURE.md)
 
