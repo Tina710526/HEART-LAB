@@ -15,7 +15,9 @@
 - 已補強：心動的開始、健康追星與粉絲消費心理等主題。
 - 整體知識庫查核：**第一輪完成**；最後一輪七章教學內容查核：**通過**。
 - 已補強：新增 S012、S013，完成粉絲消費心理知識頁，涵蓋收藏動機、稀缺感、FoMO 與衝動購買。
-- HTML 教學簡報：**尚未製作**，待知識庫與內容查核完成後再開始。
+- HTML 教學簡報：**初版已完成並寫入 GitHub**（18 頁；`index.html`、`styles.css`、`script.js`）。
+- GitHub Pages 網址：https://tina710526.github.io/HEART-LAB/
+- 已完成靜態檔案檢查；實際瀏覽器與 Pages 部署驗收仍待執行。
 
 ## 專案目標
 - 蒐集並整理可信來源。
@@ -44,6 +46,8 @@
 - [學習目標](06_TEACHING_OUTLINE/LEARNING_OBJECTIVES.md)
 - [教學簡報結構](06_TEACHING_OUTLINE/PRESENTATION_STRUCTURE.md)
 - [HTML 互動式教學簡報規格書](06_TEACHING_OUTLINE/HTML_PRESENTATION_SPEC.md)
+- [教學 HTML 簡報](index.html)
+- [HTML 簡報實作與測試紀錄](05_QUALITY_CONTROL/HTML_IMPLEMENTATION_QA.md)
 
 ## 資料狀態標記
 - **全文已核對**：取得可確認的全文，並核對研究方法、樣本、主要結果與限制。
