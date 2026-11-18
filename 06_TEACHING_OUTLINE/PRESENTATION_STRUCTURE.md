@@ -1,6 +1,6 @@
 # HEART-LAB｜教學簡報結構規劃
 
-> 本文件是內容與互動規格，不是簡報成品。尚未開始產生 HTML 投影片。
+> 本文件保留教學內容規劃；18 頁 HTML 初版已建立，請搭配 `HTML_PRESENTATION_SPEC.md` 與 `05_QUALITY_CONTROL/HTML_IMPLEMENTATION_QA.md` 查看實作及驗收狀態。
 
 ## 整體定位
 - 標題：心動研究所｜從心理學看追星文化
