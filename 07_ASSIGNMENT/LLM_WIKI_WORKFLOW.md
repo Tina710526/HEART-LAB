@@ -139,7 +139,11 @@ flowchart TD
 - 教學內容查核：<https://github.com/Tina710526/HEART-LAB/blob/main/05_QUALITY_CONTROL/TEACHING_CONTENT_CHECK.md>
 - HTML 實作與測試紀錄：<https://github.com/Tina710526/HEART-LAB/blob/main/05_QUALITY_CONTROL/HTML_IMPLEMENTATION_QA.md>
 
-## 八、繳交前仍需確認
+## 八、補充的 LLM 討論與 Wiki 修訂紀錄
+
+2026-11-19 以 S010 實際進行一輪「先討論、後修訂」：先閱讀來源與既有知識頁，討論單純接觸效應如何用追星日常解釋、熟悉感是否等於喜歡，以及研究不能支持哪些結論；再依使用者偏好加入刷到舞台、反覆看到直拍／訪談／綜藝、逐漸認得偶像並可能期待更新的生活例子。新增內容明確標示為教學情境，不是研究個案。討論、修訂及逐項查核紀錄見 [LLM 討論與生成紀錄](./LLM_DISCUSSION_AND_GENERATION_LOG.md)。
+
+## 九、繳交前仍需確認
 
 - [ ] 確認老師是否接受以 GitHub Repository 管理 Markdown 知識頁作為 LLM Wiki 成果；若課堂另有指定平台，需依老師要求補上該平台的實際 Ingest／討論／生成紀錄。
 - [ ] 補上實際討論與生成過程的截圖或紀錄（若老師要求平台操作證據）。
