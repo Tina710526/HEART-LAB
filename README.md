@@ -48,6 +48,7 @@
 - [HTML 互動式教學簡報規格書](06_TEACHING_OUTLINE/HTML_PRESENTATION_SPEC.md)
 - [教學 HTML 簡報](index.html)
 - [HTML 簡報實作與測試紀錄](05_QUALITY_CONTROL/HTML_IMPLEMENTATION_QA.md)
+- [LLM Wiki 建置與 Loop／Graph 執行紀錄](07_ASSIGNMENT/LLM_WIKI_WORKFLOW.md)
 
 ## 資料狀態標記
 - **全文已核對**：取得可確認的全文，並核對研究方法、樣本、主要結果與限制。
